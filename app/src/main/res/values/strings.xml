@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BazaSQLite</string>
+    <string name="wypelnij_pola_komunikat">Wypełnij wszystkie pola!</string>
+</resources>
